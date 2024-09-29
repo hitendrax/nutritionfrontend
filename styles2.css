@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f5f5f5;
+}
+
+.username {
+    font-weight: bold;
+}
+
+.menu-icon {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+main {
+    padding: 20px;
+}
+
+.diet-summary {
+    text-align: center;
+}
+
+.meal-section {
+    margin-bottom: 20px;
+}
+
+.meal-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
